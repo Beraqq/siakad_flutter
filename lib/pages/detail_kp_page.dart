@@ -24,7 +24,7 @@ class DetailKpPage extends StatelessWidget {
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10.0)
                       ),
-                      backgroundColor: Colors.blue[800],
+                      backgroundColor: Colors.blue,
                       alignment: Alignment.topLeft,
                       elevation: 10.0
                     ),

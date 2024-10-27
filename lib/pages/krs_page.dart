@@ -17,7 +17,15 @@ class KrsPage extends StatelessWidget {
                 padding: const EdgeInsets.only(top: 10.0, bottom: 20.0, left: 10.0),
                 width: MediaQuery.of(context).size.width,
                 decoration: BoxDecoration(
-                  color: Colors.grey,
+                  gradient: const LinearGradient(
+                    colors: [
+                      Colors.lightBlue,
+                      Color.fromARGB(255, 248, 227, 40),
+                    ],
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                  ),
+                  
                   borderRadius: BorderRadius.circular(10.0)
                 ),
                 child: Column(

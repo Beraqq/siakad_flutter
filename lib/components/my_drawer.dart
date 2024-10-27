@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_uts/pages/login_page.dart';
+import 'package:flutter_uts/pages/profile%20page.dart';
 
 class MyDrawer extends StatelessWidget {
   const MyDrawer({super.key});
@@ -32,6 +33,7 @@ class MyDrawer extends StatelessWidget {
               leading: const Icon(Icons.account_circle),
               onTap: (){
                 Navigator.pop(context);
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const ProfilePage()));
               },
             ),
           ),

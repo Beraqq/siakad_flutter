@@ -21,6 +21,8 @@ flutter:
   uses-material-design: true
   assets:
   - lib/images/
+  - lib/images/abdan.jpg
+  - lib/images/abdan2.jpg
 
 fonts:
   - family: Poppins
