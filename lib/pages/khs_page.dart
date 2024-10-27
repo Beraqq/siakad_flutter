@@ -111,6 +111,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -142,6 +143,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -173,6 +175,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -204,6 +207,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -235,6 +239,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -266,6 +271,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -297,7 +303,8 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-
+                    Divider(),
+                    
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
                       child: Row(
@@ -328,7 +335,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    
+                    Divider(),
                   ],
                 ),
                 

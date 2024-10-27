@@ -39,6 +39,7 @@ class DetailKhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: EdgeInsets.symmetric(vertical: 10.0),
@@ -63,6 +64,7 @@ class DetailKhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: EdgeInsets.symmetric(vertical: 10.0),
@@ -87,7 +89,8 @@ class DetailKhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    
+                    Divider(),
+
                     Padding(
                       padding: EdgeInsets.symmetric(vertical: 10.0),
                       child: Row(
@@ -111,6 +114,7 @@ class DetailKhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: EdgeInsets.symmetric(vertical: 10.0),
@@ -135,7 +139,8 @@ class DetailKhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-
+                    Divider(),
+                    
                     Padding(
                       padding: EdgeInsets.symmetric(vertical: 10.0),
                       child: Row(
@@ -159,6 +164,8 @@ class DetailKhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
+                    
                   ],
                 ),
                 

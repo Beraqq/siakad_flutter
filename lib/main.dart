@@ -1,6 +1,7 @@
 // ignore_for_file: unused_import
 
 import 'package:flutter/material.dart';
+import 'package:flutter_uts/pages/detail_bayar_page.dart';
 import 'package:flutter_uts/pages/home_page.dart';
 import 'package:flutter_uts/pages/login_page.dart';
 import 'package:flutter_uts/theme/dark_mode.dart';
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: const LoginPage(),
+      home: const HomePage(),
       theme: Provider.of<ThemeProvider>(context).themeData,
     );
   }

@@ -116,6 +116,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -147,6 +148,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -178,6 +180,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -209,6 +212,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -240,6 +244,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -271,6 +276,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -302,6 +308,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
+                    Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -333,7 +340,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    
+                    Divider(),
                   ],
                 ),
                 
