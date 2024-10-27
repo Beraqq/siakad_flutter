@@ -13,7 +13,7 @@ class PembayaranPage extends StatelessWidget {
           Column(
             children: [
               // card button 1
-              Container(
+                Container(
                 margin: const EdgeInsets.symmetric(horizontal: 10.0),
                 child: Padding(
                   padding: const EdgeInsets.symmetric(vertical: 10.0),

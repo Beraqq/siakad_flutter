@@ -111,7 +111,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -143,7 +143,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -175,7 +175,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -207,7 +207,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -239,7 +239,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -271,7 +271,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -303,7 +303,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
                     
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -335,7 +335,7 @@ class KhsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
                   ],
                 ),
                 

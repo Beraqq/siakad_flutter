@@ -116,7 +116,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -148,7 +148,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -180,7 +180,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -212,7 +212,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -244,7 +244,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -276,7 +276,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -308,7 +308,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
 
                     Padding(
                       padding: const EdgeInsets.symmetric(vertical: 10.0),
@@ -340,7 +340,7 @@ class KrsPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                    Divider(),
+                    const Divider(),
                   ],
                 ),
                 

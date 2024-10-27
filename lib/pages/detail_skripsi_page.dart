@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
-class DetailKpPage extends StatelessWidget {
-  const DetailKpPage({super.key});
+class DetailSkripsiPage extends StatelessWidget {
+  const DetailSkripsiPage({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Detail KP"),),
+      appBar: AppBar(title: const Text("Detail Skripsi"),),
       body: ListView(
         children: [
           Column(
@@ -24,7 +24,7 @@ class DetailKpPage extends StatelessWidget {
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(10.0)
                       ),
-                      backgroundColor: Colors.blue[800],
+                      backgroundColor: Colors.orange[400],
                       alignment: Alignment.topLeft,
                       elevation: 10.0
                     ),
